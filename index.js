@@ -41,8 +41,8 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
-limitawal = 30
-memberlimit = 0
+limitawal = 999
+memberlimit = 2
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 /*************************************/
 
